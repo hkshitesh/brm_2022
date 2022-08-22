@@ -1,3 +1,8 @@
 Code 1
+<<<<<<< HEAD
 code by main 1
 code by main 2
+=======
+line 1 added by second branch
+line 2 added by second branch
+>>>>>>> sec_branch
